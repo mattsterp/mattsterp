@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Creative
 ------------------
 
-* 🌍  I'm based in Massachusetts
+* 🌍 I'm based in Massachusetts
 * ✉️  You can contact me at [matt@appcat.io](mailto:hello@soundlink.io)
-* 🚀  I'm currently working on [Soundlink](http://soundlink.io)
-* 🧠  I'm WordPress Block Theme Development
+* 🚀 I'm currently working on [Soundlink](http://soundlink.io)
+* 🧠 WordPress Block Theme Development
 * ⚡  WordPress Theme, and PLugin, Full stack web, Figma designer and a Drum and Bass DJ and producer.
 
 <a href="https://www.github.com/mattsterp" target="_blank" rel="noreferrer"><img
