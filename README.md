@@ -5,8 +5,7 @@ Technical Creative
 ------------------
 
 * 🌍  I'm based in Massachusetts
-* 🖥️  See my portfolio at [https://appcat.io](http://appcat.io)
-* ✉️  You can contact me at [matt@appcat.io](mailto:matt@appcat.io)
+* ✉️  You can contact me at [matt@appcat.io](mailto:hello@soundlink.io)
 * 🚀  I'm currently working on [Soundlink](http://soundlink.io)
 * 🧠  I'm WordPress Block Theme Development
 * ⚡  WordPress Theme, and PLugin, Full stack web, Figma designer and a Drum and Bass DJ and producer.
