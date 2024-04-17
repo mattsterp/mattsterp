@@ -8,7 +8,7 @@ Technical Creative
 * ✉️ You can contact me at [hello@soundlink.io](mailto:hello@soundlink.io)
 * 🚀 I'm currently working on [Soundlink](http://soundlink.io)
 * 🧠 WordPress Block Theme Development
-* ⚡ WordPress Theme, and PLugin, Full stack web, Figma designer and a Drum and Bass DJ and producer.
+* ⚡ WordPress Theme, and Plugin, Full stack web, Figma designer and a Drum and Bass DJ and producer.
 
 <a href="https://www.github.com/mattsterp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mattsterp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
