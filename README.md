@@ -14,5 +14,4 @@ Focused on building thoughtful, minimal web experiences.
 ### Contact
 
 - Email: [hello@soundlink.io](mailto:hello@soundlink.io)
-- GitHub: [mattsterp](https://github.com/mattsterp)
 - LinkedIn: [in/mattsterp](https://www.linkedin.com/in/mattsterp)
