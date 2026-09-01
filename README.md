@@ -1,37 +1,26 @@
-# Matthew Peters
+# Matt Peters
 
-Founder of [Appcat](https://appcat.io), the first Lovable template shop.
+I build software alone, start to finish. Most of it is for people who make music. One product proves videos are real. One takes Lovable prototypes to production. Based in Massachusetts, on GitHub since 2014.
 
-Every Appcat template is built on the Appcat Method: professional architecture, a design system, realistic mock data, and all the context Lovable needs. Works with Lovable Cloud and Supabase. All the conventions an experienced developer would apply, already done.
+## Products
 
-The only thing left is your idea.
+**Crate** · [getcrate.live](https://getcrate.live)  
+Finish more music. Crate reads every .als in your folder, sorts each project into a phase, and tracks what's left. Runs in the browser. Crate Sidecar puts the same view inside Ableton Live.
 
----
+**Soundliner** · [soundliner.com](https://soundliner.com)  
+The fan-facing home of an artist's music. Paste one link and Soundliner finds the track everywhere it lives and builds the release page. Hosts no audio. Artists pay, fans are free.
 
-## What I build
+**4DAuth** · [4dauth.com](https://4dauth.com)  
+Prove your videos are real. Creators display a visual verification card in their videos. Viewers match it against the creator's public status page. No apps, no AI detection.
 
-**Appcat.** Production-ready Lovable templates delivered as complete products. Not just a remix link. Architecture decided, design system included, AI already oriented to the codebase, guided lessons from remix to production.
+**AppCat** · [appcat.io](https://appcat.io)  
+From prototype to production. Sprint-based development that turns Lovable apps into production applications.
 
-**Appcat Builds.** A YouTube series documenting how these templates are made. Every prompt, every decision, every place where something breaks.
+## How I work
 
-**Soundlink.** A music platform built for artists who care about how their work is experienced. Currently in development.
+React and TypeScript on the front. Lovable Cloud and Supabase behind it. Claude in the loop for design, code and docs. The product code is private; each product has a public repo with screenshots and notes, pinned below.
 
-**Visibilityradar.** SEO and visibility tooling for indie builders. Currently in development.
+## Elsewhere
 
----
-
-## Stack
-
-React, TypeScript, Tailwind, Supabase, Phaser.js, Lovable, Claude
-
----
-
-## Links
-
-- [appcat.io](https://appcat.io)
-- [community.appcat.io](https://community.appcat.io)
-- [Appcat on GitHub](https://github.com/appcat-io)
-- [soundlink.io](https://soundlink.io)
-- [Soundlink on GitHub](https://github.com/soundlink-io)
-- [visibilityradar.com](https://visibilityradar.com)
-- [Visibilityradar on GitHub](https://github.com/visibilityradar)
+[mattpeters.dev](https://mattpeters.dev)  
+DJ Nemesis · [dj-nemesis.com](https://dj-nemesis.com)
